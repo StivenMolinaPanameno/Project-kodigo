@@ -22,6 +22,7 @@ Como se dice, anteriormente, el fin de este proyecto es reflejar lo aprendido co
 variando de escenarios.
 
 ## Compilación
+---
 
 * Clonar la rama principal (main)
 * Ejecutar en cualquier IDE de desarrollo la clase principal llamada Main.java ubicada en la carpeta **src/main/java/org/example/Main.java**
