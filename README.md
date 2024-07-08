@@ -15,11 +15,13 @@ para testear un proyecto. Cada método de cada clase en java está debidamente p
 ---
 Proyecto realmente sensillo que resalta lo que es un CRUD a nivel superficial, ya que no posee base de datos como
 
-estructura de datos, sino un arreglo. Evidentemente se refleja la utilización de estructura de datos estática estática y el uso de JOptionPane como interfáz gráfica.
+estructura de datos, sino un arreglo. Evidentemente se refleja la utilización de estructura de datos estática estática y 
 
-Como se dice, anteriormente, el fin de este proyecto es reflejar lo aprendido con la utilización de JUNIT para hacer pruebas unitarias
+el uso de JOptionPane como interfáz gráfica.
 
-variando de escenarios.
+Como se dice anteriormente, el fin de este proyecto es reflejar lo aprendido con la utilización de JUNIT para hacer pruebas unitarias
+
+variando los escenarios.
 
 ## Compilación
 ---
