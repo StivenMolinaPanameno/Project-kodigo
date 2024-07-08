@@ -20,3 +20,9 @@ estructura de datos, sino un arreglo. Evidentemente se refleja la memoria estát
 Como se dice, anteriormente, el fin de este proyecto es reflejar lo aprendido con la utilización de JUNIT para hacer pruebas unitarias
 
 variando de escenarios.
+
+## Compilación
+
+* Clonar la rama principal (main)
+* Ejecutar en cualquier IDE de desarrollo la clase principal llamada Main.java ubicada en la carpeta **src/main/java/org/example/Main.java**
+* Se despliega menú donde se aprecían las distintas posibilidades para gestionar o manipular datos en una estructura de datos estática
